@@ -1,12 +1,11 @@
 <meta name="google-site-verification" content="5OmojaPnwJ2F8MfzU4-QCKsXdzUhltUD8QoHkLzpIcc" />
-# Mary Elliott | Poet
-
 **Mary Elliott**  
 Iowa-born, Santa Barbara poet (30+ years). B.A. English Literature & Language, UC Santa Barbara.  
 **Honorable Mention – California State Poetry Society 38th Annual Contest (2025).**
 
 *City of Rain* forthcoming ***Cathexis Northwest Press*** (Jan 2025)  
-*Hexagram 9*, *Birdsong*, *Time into Night*, *Sunset*, *Seasons*, *Ascension* in ***California Quarterly*** (2021–2025)
+*Hexagram 9*, *Birdsong*, *Time into Night*, *Sunset*, *Seasons*, *Ascension* in ***California Quarterly*** (2021–2025)  
+Contributor to ***Crystal Fire: Poems of Joy & Wisdom*** (Moonstone Press, 2022)
 
 Business Development, Chemical Engineering — with cross-industry experience in finance, arts, business, and organizational management.
 ---
