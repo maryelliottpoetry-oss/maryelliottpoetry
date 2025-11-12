@@ -25,8 +25,8 @@ Contributor to ***Crystal Fire: Poems of Joy & Wisdom*** (Moonstone Press, 2022)
 | **(Untitled Motivational Poem)** | *Magic of Motivational Poetry and Quotes* | 2020 | [Search →](https://amazon.com/s?k=Magic+of+Motivational+Poetry+and+Quotes) |
 | **Fireflies** | *HAVIK: Inside Brilliance* | June 2021 | [Explore HAVIK →](https://havikjournal.com/) |
 | **aftermath** | *Sad Girls Journal* | June 2021 |(https://laspositascollege.edu/english/havik.php](https://www.sadgirldiaries.com/post/aftermath-mary-elliott) |
-| **(Poem of Joy & Wisdom)** | *Crystal Fire: Poems of Joy and Wisdom* (Moonstone Press) | October 17, 2022 | [Browse →](https://moonrisepress.com/crystal-fire.html) |
-| **(Online Feature)** | *SadGirlsLit* | Online | [Visit →](https://sadgirlslit.com/) |
+| ** Crystal Fire: Poem of Joy & Wisdom ** | (Moonstone Press) | October 17, 2022 | [Browse →](https://moonrisepress.com/crystal-fire.html) |
+
 
 > *All California Quarterly issues edited by Maja Trochimczyk & Bory Thach (where noted).*
 
