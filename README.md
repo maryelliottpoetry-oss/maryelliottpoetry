@@ -4,11 +4,11 @@ Iowa-born, Santa Barbara poet (30+ years). B.A. English Literature & Language, U
 **Honorable Mention – California State Poetry Society 38th Annual Contest (2025).**
 
 *City of Rain* forthcoming ***Cathexis Northwest Press*** (Jan 2025)  
-*Hexagram 9*, *Birdsong*, *Time into Night*, *Sunset*, *Seasons*, *Ascension* in ***California Quarterly*** (2021–2025)  
+*Hexagram 9*, *Birdsong*, *Time into Night*, *Sunset*, *Seasons*, *Ascension* in ***California Quarterly*** (2021–2025
+
 Contributor to ***Crystal Fire: Poems of Joy & Wisdom*** (Moonstone Press, 2022)
 
-*Business Development*, — with cross-industry experience in finance, arts, business, and organizational management.
----
+
 
 ## Published & Forthcoming Poems
 
@@ -30,16 +30,9 @@ Contributor to ***Crystal Fire: Poems of Joy & Wisdom*** (Moonstone Press, 2022)
 
 > *All California Quarterly issues edited by Maja Trochimczyk & Bory Thach (where noted).*
 
----
-
-## Portfolio (Excerpts)
-
-### "Sunset" – *California Quarterly*, Vol. 49, No. 4 (Winter 2023)
 
 ---
 ---
-
-
 
 ## Awards & Recognition
 - **Honorable Mention** – California State Poetry Society 38th Annual Contest (2025)
