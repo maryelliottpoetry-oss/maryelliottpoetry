@@ -3,34 +3,52 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Mary Elliott | Poet - Protected</title>
+  <title>Mary Elliott | Poet</title>
   <style>
-    body { font-family: Arial, sans-serif; text-align: center; margin: 100px; background: #f0f8ff; }
-    input { padding: 10px; font-size: 16px; margin: 10px; }
-    button { padding: 10px 20px; background: #007cba; color: white; border: none; cursor: pointer; }
-    #error { color: red; display: none; }
+    body {
+      font-family: Georgia, serif;
+      text-align: center;
+      margin: 80px auto;
+      max-width: 500px;
+      background: #f9f9f9;
+      padding: 20px;
+    }
+    h1 { color: #1a5d8a; }
+    p { color: #555; }
+    input {
+      padding: 12px;
+      font-size: 18px;
+      width: 260px;
+      margin: 10px;
+      border: 1px solid #ccc;
+      border-radius: 4px;
+    }
+    button {
+      padding: 12px 28px;
+      background: #1a5d8a;
+      color: white;
+      border: none;
+      border-radius: 4px;
+      cursor: pointer;
+      font-size: 16px;
+    }
+    button:hover { background: #0d3a5c; }
+    #error { color: #d32f2f; display: none; margin-top: 15px; font-weight: bold; }
   </style>
-  <!-- Optional: Google Analytics for logging views (setup below) -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=GA_MEASUREMENT_ID"></script>
-  <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
-    gtag('config', 'GA_MEASUREMENT_ID'); // Replace with your ID
-  </script>
 </head>
 <body>
-  <h1>Welcome to Mary Elliott's Poetry Portfolio</h1>
-  <p>Enter password to access:</p>
-  <input type="password" id="pw" placeholder="Haley101!">
-  <button onclick="checkPW()">Enter</button>
-  <p id="error">Wrong password—try again.</p>
+  <h1>Mary Elliott | Poet</h1>
+  <p><em>Enter password to access portfolio</em></p>
+  <input type="password" id="pw" placeholder="Password">
+  <button onclick="check()">Enter</button>
+  <p id="error">Incorrect password — try again.</p>
+
   <script>
-    function checkPW() {
-      const pw = document.getElementById('pw').value;
+    function check() {
+      const input = document.getElementById('pw').value;
       const error = document.getElementById('error');
-      if (pw === 'yourpassword') {
-        window.location.href = 'README.md'; // Redirect to your portfolio
+      if (input === 'Haley101!') {  // ← YOUR PASSWORD
+        window.location.href = 'README.md';
       } else {
         error.style.display = 'block';
       }
