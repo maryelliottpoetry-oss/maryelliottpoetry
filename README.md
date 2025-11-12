@@ -7,7 +7,7 @@ Iowa-born, Santa Barbara poet (30+ years). B.A. English Literature & Language, U
 *Hexagram 9*, *Birdsong*, *Time into Night*, *Sunset*, *Seasons*, *Ascension* in ***California Quarterly*** (2021–2025)  
 Contributor to ***Crystal Fire: Poems of Joy & Wisdom*** (Moonstone Press, 2022)
 
-Business Development, Chemical Engineering — with cross-industry experience in finance, arts, business, and organizational management.
+*Business Development*, — with cross-industry experience in finance, arts, business, and organizational management.
 ---
 
 ## Published & Forthcoming Poems
