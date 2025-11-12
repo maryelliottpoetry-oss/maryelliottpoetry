@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Mary Elliott | Poet - Protected</title>
+  <style>
+    body { font-family: Arial, sans-serif; text-align: center; margin: 100px; background: #f0f8ff; }
+    input { padding: 10px; font-size: 16px; margin: 10px; }
+    button { padding: 10px 20px; background: #007cba; color: white; border: none; cursor: pointer; }
+    #error { color: red; display: none; }
+  </style>
+  <!-- Optional: Google Analytics for logging views (setup below) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=GA_MEASUREMENT_ID"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'GA_MEASUREMENT_ID'); // Replace with your ID
+  </script>
+</head>
+<body>
+  <h1>Welcome to Mary Elliott's Poetry Portfolio</h1>
+  <p>Enter password to access:</p>
+  <input type="password" id="pw" placeholder="Haley101!">
+  <button onclick="checkPW()">Enter</button>
+  <p id="error">Wrong password—try again.</p>
+  <script>
+    function checkPW() {
+      const pw = document.getElementById('pw').value;
+      const error = document.getElementById('error');
+      if (pw === 'yourpassword') {
+        window.location.href = 'README.md'; // Redirect to your portfolio
+      } else {
+        error.style.display = 'block';
+      }
+    }
+  </script>
+</body>
+</html>
