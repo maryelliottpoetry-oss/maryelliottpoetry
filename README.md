@@ -1,8 +1,5 @@
 
 
-  gtag('config', 'G-8PJQGP6SJZ');
-</script>
-<meta name="google-site-verification" content="5OmojaPnwJ2F8MfzU4-QCKsXdzUhltUD8QoHkLzpIcc" />
 **Mary Elliott**  
 Iowa-born, Santa Barbara poet (30+ years). B.A. English Literature & Language, UC Santa Barbara.  
 **Honorable Mention – California State Poetry Society 38th Annual Contest (2025).**
