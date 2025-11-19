@@ -12,24 +12,20 @@ Contributor to ***Crystal Fire: Poems of Joy & Wisdom*** (Moonstone Press, 2022)
 
 ## Published & Forthcoming Poems
 
-| Poem Title | Publication | Issue / Date | Link |
-|------------|-------------|--------------|------|
-| **City of Rain** | *Cathexis Northwest Press* | Forthcoming January 2025 | [Read when live →](https://cathexisnorthwestpress.com/) |
-| **Hexagram 9** | *California Quarterly* | Vol. 51, No. 4 – Winter 2025 | [CQ Archives →](https://www.californiastatepoetrysociety.com/) |
-| **Birdsong** | *California Quarterly* | Vol. 50, No. 3 – Autumn 2024 | [CQ Archives →](https://californiastatepoetrysociety.com/p/cq-2018.html) |
-| **Time into Night** | *California Quarterly* | Vol. 50, No. 3 – Autumn 2024 | [CQ Archives →](https://californiastatepoetrysociety.com/p/cq-2018.html) |
-| **Sunset** | *California Quarterly* | Vol. 49, No. 4 – Winter 2023 | [CQ Archives →](https://californiastatepoetrysociety.com/p/cq-2018.html) |
-| **Seasons** | *California Quarterly* | Vol. 48, No. 3 – Autumn 2022 | [CQ Archives →](https://californiastatepoetrysociety.com/p/cq-2018.html) |
-| **Ascension** | *California Quarterly* | Vol. 47, No. 2 – Summer 2021 | [CQ Archives →](https://californiastatepoetrysociety.com/p/cq-2018.html) |
-| **Bleak Harvest** | *Wingless Dreamer: A Glass of Wine with Edgar* | February 24, 2021 | [Anthology →](https://www.amazon.com/glass-wine-Edgar-Ruchi-Acharya-ebook/dp/B08W4MVBXG) |
-| **(Untitled Motivational Poem)** | *Magic of Motivational Poetry and Quotes* | 2020 | [Search →](https://amazon.com/s?k=Magic+of+Motivational+Poetry+and+Quotes) |
-| **Fireflies** | *HAVIK: Inside Brilliance* | June 2021 | [Explore HAVIK →](https://havikjournal.com/) |
-| **aftermath** | *Sad Girls Journal* | June 2021 |(https://laspositascollege.edu/english/havik.php](https://www.sadgirldiaries.com/post/aftermath-mary-elliott) |
-| ** Crystal Fire: Poem of Joy & Wisdom ** | (Moonstone Press) | October 17, 2022 | [Browse →](https://moonrisepress.com/crystal-fire.html) |
-
+| Poem Title            | Publication                            | Issue / Date             | Link                                      |
+|-----------------------|----------------------------------------|--------------------------|-------------------------------------------|
+| **City of Rain**      | *Cathexis Northwest Press*             | Forthcoming January 2025 | [Read when live →](https://cathexisnorthwestpress.com/) |
+| **Hexagram 9**        | *California Quarterly*                 | Vol. 51, No. 4 – Winter 2025 | [CQ Archives →](https://californiastatepoetrysociety.com/p/cq-2018.html) |
+| **Birdsong**          | *California Quarterly*                 | Vol. 50, No. 3 – Autumn 2024 | [CQ Archives →](https://californiastatepoetrysociety.com/p/cq-2018.html) |
+| **Time into Night**   | *California Quarterly*                 | Vol. 50, No. 3 – Autumn 2024 | [CQ Archives →](https://californiastatepoetrysociety.com/p/cq-2018.html) |
+| **Sunset**            | *California Quarterly*                 | Vol. 49, No. 4 – Winter 2023 | [CQ Archives →](https://californiastatepoetrysociety.com/p/cq-2018.html) |
+| **Seasons**           | *California Quarterly*                 | Vol. 48, No. 3 – Autumn 2022 | [CQ Archives →](https://californiastatepoetrysociety.com/p/cq-2018.html) |
+| **Ascension**         | *California Quarterly*                 | Vol. 47, No. 2 – Summer 2021 | [CQ Archives →](https://californiastatepoetrysociety.com/p/cq-2018.html) |
+| **Bleak Harvest**     | *Wingless Dreamer: A Glass of Wine with Edgar* | 2021             | [Anthology →](https://www.amazon.com/glass-wine-Edgar-Ruchi-Acharya-ebook/dp/B08W4MVBXG) |
+| **Fireflies**         | *HAVIK: Inside Brilliance*             | 2021                     | [Explore HAVIK →](https://havikjournal.com/) |
+| (Untitled)            | *Crystal Fire: Poems of Joy & Wisdom*  | Moonstone Press, 2022    | [Browse →](https://moonrisepress.com/crystal-fire.html) |
 
 > *All California Quarterly issues edited by Maja Trochimczyk & Bory Thach (where noted).*
-
 
 ---
 ---
